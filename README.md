@@ -8,10 +8,11 @@ Hej! Zdecydowałam się na udział w challange portfolio, ponieważ po ukończen
 *Na czym polega ta aplikacja? Do czego służy?*    Do wyszukiwania graczy w piłkę nożną. Gracze mogą się dodawać do bazy po zalogowaniu. Gracze mogą być wyszukiwani za pomocą filrów.
 
 *Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?*  
-Logowanie, dodawanie gracza, wyszukiwanie graczy w bazie, 
+Logowanie, dodawanie gracza, wyszukiwanie graczy w bazie, zmian języka dla strony.
 
-*Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?* 
+*Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?* Aplikacja uboga wizualnie, nie widać powiązania tematycznego (piłka nożna) w grafice, menu ubogie i nieintuicyjne, niezrozumiałe pogrupowanie informacji i funkcjonalność tj. zmiana języka w pasku menu, a dodawanie gracza na środku,  niespójnośc w czcionkach (wielkość, kolor, podkreślenie), pole, w którym można dodać gracza ma mylącą nazwę, 
 
 *Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu)*
 
 *Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)* 
+dla obiektów policzalnych używamy "liczba", nie "ilość", powinno być "Aktywność", nie "Aktywnosć", niezrozumiałe wskazanie kontaktu do DEV TEAM, w polskojęzycznej wersji strony widnieje angielskojęzyczny komunikat DEV TEAM CONTACT, przekierowanie do DEV TEAM nie działa, analogicznie do "dodaj gracza" powinno być "wyszukaj gracza", brak rozróżnienia czy loguje się gracz czy wyszukujący. Dodawanie gracza: pola oznaczone * są wymagane do utworzenia gracza, nie zastosowano opcji weryfikacji czy wprowadzane dane są prawdopodobne (filmik w załączeniu)
