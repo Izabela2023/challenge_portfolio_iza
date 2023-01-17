@@ -1,10 +1,12 @@
 # Task 1
 ## **Subtask 1**  
 Wynik 5/10. Obiecuję poprawę :flushed:  
+## **Subtask 2** 
+Done.
 ## **Subtask 3**  
 Hej! Zdecydowałam się na udział w challange portfolio, ponieważ po ukończeniu studiów podyplomowych "Tester oprogramowania" nie czuję się wystarczająco komfortowo i pewna siebie, aby rozpocząć poszukiwanie pracy w tym obszarze. Od ukończenia studiów minęło już przeszło pół roku i widzę po sobie, że wiedza teoretyczna bez praktyki jest ulotna. Dodtakowo sprawę utrudniało bardzo duże zaangażowanie w pracę zawodową w innej branży. Mam teraz więcej przestrzeni w pracy, aby zająć się podnoszeniem kompetencji, jestem zdeterminowana i otwarta na zmianę.  
 **Iza:wink:**
-## **Subtaks 4**
+## **Subtask 4**
 ### Na czym polega ta aplikacja? Do czego służy?    
 Aplikacja służy do wyszukiwania graczy w piłkę nożną. Graczy można dodawać po zalogowaniu sie do aplikacji. Gracze mogą być wyszukiwani za pomocą filrów.
 ### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?  
@@ -29,11 +31,19 @@ Błędy, które namierzyłam:
 * powinno być "Aktywność", nie "Aktywnosć",   
 * niezrozumiałe wskazanie kontaktu do DEV TEAM, 
 * w polskojęzycznej wersji strony widnieje angielskojęzyczny komunikat DEV TEAM CONTACT,  
-* przekierowanie do DEV TEAM nie działa,  
+* łącze DEV TEAM Contact przekierowuje do slack. Czy to jest zamierzone?  
 * analogicznie do "dodaj gracza" powinno być "wyszukaj gracza",   
 * brak informacji, kto może zalogować się do aplikacji, 
 * dodawanie gracza: nie zastosowano opcji weryfikacji, czy wprowadzane dane są prawdopodobne (filmik w załączeniu),  
 * możliwe jest edytowanie i zapisywanie zmian u graczy wprowadzanych przez inne osoby,  
-* możliwe jest dodanie rozegranego meczu z datą przyszłą. 
+* możliwe jest dodanie rozegranego już meczu z datą przyszłą,
+* możliwe dodanie nierealnego czasu gracza na boisku, np.999 min.
+* możliwe dodanie wzrostu i wagi gracza w nierealnych wartościach tj. 10
+* mozliwe dodanie gracza, który urodził się w dniu wprowadzania danych do aplikacji
+* mozliwe dodanie gracza, którego imię i nazwisko składa się tylko z jednej litery
+* mozliwe dodanie numeru telefonu dla gracza, składającego się z liter, nie cyfr
+* możliwe dodanie nieistniejących języków do gracza
+* w polu "osiągnięcia", w karcie dot. użytkownika mozna dodać abstrakcyjne treści, które nie są powiązane z piłką nożną. Czy o to chodziło twórcom aplikacji?
+* mozliwe dodanie abstrakcyjnej treści w polu przeznaczonym do dodania linku z youtube.
 ## **Subtask5**   
 Wbiłam się do jednej z grup utworzonych przez dziewczyny na JIRA :)
