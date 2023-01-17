@@ -47,4 +47,4 @@ Błędy, które namierzyłam:
 * w polu "osiągnięcia", w karcie dot. użytkownika mozna dodać abstrakcyjne treści, które nie są powiązane z piłką nożną. Czy o to chodziło twórcom aplikacji?
 * mozliwe dodanie abstrakcyjnej treści w polu przeznaczonym do dodania linku z youtube.
 ## **Subtask5**   
-Wbiłam się do jednej z grup utworzonych przez dziewczyny na JIRA :)
+Dołączyłam do jednej z grup utworzonych przez dziewczyny w JIRA :blush:
