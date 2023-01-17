@@ -35,7 +35,7 @@ Błędy, które namierzyłam:
 * łącze DEV TEAM Contact przekierowuje do slack. Czy to jest zamierzone?  
 * analogicznie do "dodaj gracza" powinno być "wyszukaj gracza",   
 * brak informacji, kto może zalogować się do aplikacji, 
-* dodawanie gracza: nie zastosowano opcji weryfikacji, czy wprowadzane dane są prawdopodobne (filmik w załączeniu),  
+* dodawanie gracza: nie zastosowano opcji weryfikacji, czy wprowadzane dane są prawdopodobne, 
 * możliwe jest edytowanie i zapisywanie zmian u graczy wprowadzanych przez inne osoby,  
 * możliwe jest dodanie rozegranego już meczu z datą przyszłą,
 * możliwe dodanie nierealnego czasu gracza na boisku, np.999 min.
