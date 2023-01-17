@@ -14,6 +14,7 @@ Funkcjoonalności aplikacji:
 * logowanie, 
 * dodawanie gracza, 
 * wyszukiwanie graczy w bazie, 
+* edycja danych dot. graczy,
 * zmiana języka dla strony.
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? 
 * aplikacja uboga wizualnie,  
