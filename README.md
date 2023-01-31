@@ -48,3 +48,22 @@ Błędy, które namierzyłam:
 * mozliwe dodanie abstrakcyjnej treści w polu przeznaczonym do dodania linku z youtube.
 ## **Subtask5**   
 Dołączyłam do jednej z grup utworzonych przez dziewczyny w JIRA :blush:
+
+
+
+# Task 2
+do uzupełnienia 
+https://docs.google.com/spreadsheets/d/1H8HBXqPt5gUr6bJ_EVrmdPV7kDesUggs7qLjMGczM1Y/edit#gid=1735829482
+
+
+# Task 3
+## **Subtask 1 Pisanie przypadków testowych na podstawie User Story.**  
+https://docs.google.com/spreadsheets/d/13H8re0_e2oRgCX-JeRO5Zz1JSw5pBtci/edit#gid=1735829482
+## **Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń.** 
+https://docs.google.com/spreadsheets/d/1vg89K-3zBUs6ZWid43BUZzGRTHIS3CXM/edit#gid=1735829482
+## **Subtask 3 Po co piszemy test case’y?**  
+
+Przypadek testowy to zdefiniowany format testowania oprogramowania wymagany do sprawdzenia, czy dana aplikacja/oprogramowanie działa zgodnie z wymaganiami.
+Dobre przypadki testowe są łatwiejsze w utrzymaniu. Obsługa istniejących przypadków testowych powinna być tak prosta, jak to tylko możliwe. Dobre przypadki testowe powinny być wszechstronne, aby nie było konieczności aktualizowania całego zestawu testów dla każdej nowej wersji funkcji.
+
+
